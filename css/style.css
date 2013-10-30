@@ -1,0 +1,109 @@
+body {
+	margin: 3px;
+	/*width: 885px;
+	 margin-left: auto;
+	 margin-right: auto;*/
+}
+article {
+	height: 39.5em;
+}
+nav {
+	margin-left: 80px;
+	width: 75%;
+}
+
+#ctr1 {
+	width: 30%;
+	background-color: rgb(71, 200, 224);
+	float: left;
+}
+
+#ctr2 {
+	width: 70%;
+	background-color: rgb(175, 236, 231);
+	float: left;
+}
+
+#logo {
+	margin: 20px 110px;
+}
+
+#foto {
+	margin: 25px;
+	height: 130px;
+	width: 130px;
+}
+
+a {
+	text-decoration: none;
+}
+nav ul li a {
+	color: #0A47E2;
+	font-weight: bold;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+}
+
+li a:hover {
+	color: #FFFFFF;
+}
+#sect1 {
+	float: left;
+	width: 44%;
+	margin: 10px 90px;
+}
+
+#sect2 {
+	float: left;
+	width: 30%;
+}
+#sect3 {
+	float: left;
+	width: 60%;
+	margin-left: 30px;
+}
+ul li {
+	list-style: none;
+	padding: 3px;
+}
+
+#sect3 ul li {
+	font-size: 13px;
+	font-weight: bold;
+	font-family: Verdana;
+	color: rgb(42, 42, 150);
+}
+
+#foto1 {
+	width: 40px;
+	height: 40px;
+	margin: 19px 20px -15px 23px;
+}
+hr {
+	width: 130%;
+	margin-left: 25px;
+	border: 1px solid black;
+}
+h1, h2, h3, h4 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+h1 {
+	color: rgb(0, 28, 138);
+}
+
+h2 {
+	font-size: 17px;
+	color: rgb(12, 151, 46);
+}
+
+h3 {
+	font-size: 14px;
+	color: rgb(241, 103, 60);
+}
+
+h4 {
+	font-size: 12px;
+	color: rgb(0, 71, 255);
+}
